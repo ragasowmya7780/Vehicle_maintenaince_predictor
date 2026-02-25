@@ -6,7 +6,7 @@
 ## 🌐 Live Demo
 
 🔗 Live Application: https://your-app-name.onrender.com  
-*(Replace with your actual Render deployment link)*
+
 
 ---
 
@@ -81,8 +81,8 @@ vehicle-maintenance-predictor/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/vehicle-maintenance-predictor.git
-cd vehicle-maintenance-predictor
+git clone https://github.com/ragasowmya7780/Vehicle_maintenaince_predictor.git
+cd Vehicle_maintenaince_predicto
 ```
 
 ### 2️⃣ Create Virtual Environment (Optional)
